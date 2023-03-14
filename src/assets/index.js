@@ -6,6 +6,8 @@ import web from "./web.png";
 import github from "./github.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
+import behance from "./behance.png";
+
 
 import css from "./tech/css.png";
 import docker from "./tech/docker.png";
@@ -26,37 +28,38 @@ import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
 
-import carrent from "./carrent.png";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
+import foodie from "./Foodie.png";
+import buyit from "./buyit.png";
+import onlineupahaar from "./onlineupahaar.png";
 
 export {
-  logo,
-  backend,
-  creator,
-  mobile,
-  web,
-  github,
-  menu,
-  close,
-  css,
-  docker,
-  figma,
-  git,
-  html,
-  javascript,
-  mongodb,
-  nodejs,
-  reactjs,
-  redux,
-  tailwind,
-  typescript,
-  threejs,
-  meta,
-  shopify,
-  starbucks,
-  tesla,
-  carrent,
-  jobit,
-  tripguide,
+    logo,
+    backend,
+    creator,
+    mobile,
+    web,
+    github,
+    menu,
+    close,
+    css,
+    docker,
+    figma,
+    git,
+    html,
+    behance,
+    javascript,
+    mongodb,
+    nodejs,
+    reactjs,
+    redux,
+    tailwind,
+    typescript,
+    threejs,
+    meta,
+    shopify,
+    starbucks,
+    tesla,
+    foodie,
+    buyit,
+    onlineupahaar,
 };

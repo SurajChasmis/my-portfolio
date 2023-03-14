@@ -19,21 +19,22 @@ import {
     starbucks,
     tesla,
     shopify,
-    carrent,
-    jobit,
-    tripguide,
+    foodie,
+    buyit,
+    onlineupahaar,
     threejs,
 } from "../assets";
 
 export const navLinks = [{
-        id: "about",
-        title: "About",
-    },
-    {
-        id: "work",
-        title: "Work",
-    },
-    {
+            id: "about",
+            title: "About",
+        },
+        {
+            id: "work",
+            title: "Work",
+        },
+
+     {
         id: "contact",
         title: "Contact",
     },
@@ -193,8 +194,8 @@ const testimonials = [{
 ];
 
 const projects = [{
-        name: "Car Rent",
-        description: "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+        name: "Foodie App",
+        description: "The foodie app is a platform for delivery that links patrons with their preffered restaurants and enables them to purchase food online and have it delivered right to their door.",
         tags: [{
                 name: "UX/UI",
                 color: "blue-text-gradient",
@@ -208,12 +209,12 @@ const projects = [{
                 color: "pink-text-gradient",
             },
         ],
-        image: carrent,
-        source_code_link: "https://behance.com/",
+        image: foodie,
+        source_code_link: "https://www.behance.net/gallery/165949555/Foodie-App-Case-Study",
     },
     {
-        name: "Job IT",
-        description: "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+        name: "BUY IT Website",
+        description: "Buyit is a women's cosmetics store with reasonabale price. The typical user is between the ages of 19 and 30.",
         tags: [{
                 name: "UX/UI",
                 color: "blue-text-gradient",
@@ -227,12 +228,12 @@ const projects = [{
                 color: "pink-text-gradient",
             },
         ],
-        image: jobit,
-        source_code_link: "https://behance.com/",
+        image: buyit,
+        source_code_link: "https://www.behance.net/gallery/165949909/Buyit-Website",
     },
     {
-        name: "Trip Guide",
-        description: "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+        name: "Online Upahaar App Design ",
+        description: "Online Upahaar is an authentic Nepalese e-commerce site. Online Upahaar provides and delivers genuine Nepalese products to customers while also promoting Nepalese products",
         tags: [{
                 name: "UX/UI",
                 color: "blue-text-gradient",
@@ -246,8 +247,8 @@ const projects = [{
                 color: "pink-text-gradient",
             },
         ],
-        image: tripguide,
-        source_code_link: "https://behance.com/",
+        image: onlineupahaar,
+        source_code_link: "https://www.behance.net/gallery/165950093/Online-Upahaar-App-Case-Study",
     },
 ];
 
